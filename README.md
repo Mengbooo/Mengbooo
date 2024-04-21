@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.1.3/build/spline-viewer.js"></script>
-    <spline-viewer url="https://prod.spline.design/jXF2EKqO5Rtwg-1t/scene.splinecode"></spline-viewer>
-</body>
-<style>
-  
-</style>
-</html>   
+![bloglogo2](https://github.com/Mengbooo/Mengbooo/assets/143786942/eadd0aca-d5de-4453-b375-75c0bc1bef45)
+![blogdemo1](https://github.com/Mengbooo/Mengbooo/assets/143786942/ee684b10-9f55-4bf9-91e3-8876cb9ce0a4)
+![logoooo](https://github.com/Mengbooo/Mengbooo/assets/143786942/0b9897f1-f00a-40ea-9add-23b2a8dab707)
