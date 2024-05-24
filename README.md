@@ -10,7 +10,7 @@
 }
 
 ### Hi there 👋,I'm Mengbooo.You can call me Bolaxious,too.
-
+- 😶‍🌫️ A FE <strong style:"color:red">noob</strong>
 - 🔭 working on something cool.
 - 🌱 learning Everything I like.
 - 📫 How to reach me: 156431362@qq.com
