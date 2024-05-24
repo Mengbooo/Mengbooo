@@ -16,11 +16,13 @@
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
 
-You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview!![Suggestion](https://github.com/Mengbooo/Mengbooo/assets/143786942/817551b3-5663-426f-8088-bb60c992161a)
+## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview!  ![Suggestion](https://github.com/Mengbooo/Mengbooo/assets/143786942/817551b3-5663-426f-8088-bb60c992161a)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengbooo&layout=compact&theme=tokyonight)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Mengbooo&theme=dracula)
 
 
