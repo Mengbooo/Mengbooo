@@ -16,9 +16,8 @@
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
 
-### My Skill Set
 
 
 
