@@ -15,7 +15,7 @@
 ![vsgif_com__ 9501](https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8)
 
 
-## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview! 
+## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengbooo&layout=compact&theme=tokyonight)
@@ -35,7 +35,3 @@
 }<br />
 }*
 
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={That's ALL}&fontSize=90&fontAlign=50&fontAlignY=70&desc={BYEBYE!}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
