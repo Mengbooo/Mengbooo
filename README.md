@@ -7,11 +7,11 @@
 - 🌱 learning Everything I like.
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
----
 
+---
 <div style="width:100vw">
 ![vsgif_com__ 9501](https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8)
-</div>
+
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview! 
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
