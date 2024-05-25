@@ -13,11 +13,12 @@
     <img src="https://github.com/Mengbooo/Mengbooo/assets/143786942/dffb6332-07d3-4b95-878c-6fdd8d1f92fe" width="300px">
     <img src="https://github.com/Mengbooo/Mengbooo/assets/143786942/79b0234f-ed4a-4c0e-8eea-ec120fb42986" width="300px">
 </figure>
+
 ---
 
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
-![vsgif_com__ 9501](https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8)
+<img src = "https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8" width="100%">
 ---
 <div style="display:flex">
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mengbooo&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
