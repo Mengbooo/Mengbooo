@@ -6,7 +6,7 @@
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
 ---
-![image](https://github.com/Mengbooo/Mengbooo/assets/143786942/dcce60b0-20d8-42c6-b682-1f283c5efe6d)
+[![image](https://github.com/Mengbooo/Mengbooo/assets/143786942/dcce60b0-20d8-42c6-b682-1f283c5efe6d)](https://i.gifer.com/fetch/w300-preview/27/27aff9eb9f2b4cbde4a6a27e67b51c3f.gif)
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview! 
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
