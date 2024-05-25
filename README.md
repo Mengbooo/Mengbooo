@@ -26,14 +26,9 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengbooo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 </div>
 <div><img src="https://github-profile-trophy.vercel.app/?username=Mengbooo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-*{<br />
-   "status":200,<br />
-   "data":{<br />
-          "name":Mengbooo,<br />
-          "age":18,<br />
-          "mbti" :"infj",<br />
-          "school":"HUST",<br />
-          "hobby":["games","codding","sleep","travel"],<br />
-}<br />
-}*
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={嘻嘻}&fontSize=90&fontAlign=50&fontAlignY=70&desc={拜拜}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 
