@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengbooo&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Mengbooo&theme=dracula)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={Mengbooo}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 *{<br />
