@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={# Hi there}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Mengbooo.You can call me Bolaxious,too.}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7C7&background=1514FF00&random=true&width=100vw&lines=Welcome+To+My+Github+Overview%EF%BC%81)](https://git.io/typing-svg)
 - 😶‍🌫️ A FE **noob**🍟🍟🍟
 - 🔭 working on something cool.
 - 🌱 learning Everything I like.
@@ -11,7 +9,9 @@
 - 😍 FE SO GREAT！
 ---
 
+<div style="width:100vw">
 ![vsgif_com__ 9501](https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8)
+</div>
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)  visit my overview! 
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
@@ -33,5 +33,5 @@
 }<br />
 }*
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={That's ALL}&fontSize=90&fontAlign=50&fontAlignY=70&desc={BYEBYE!😶‍🌫️❤️}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={That's ALL}&fontSize=90&fontAlign=50&fontAlignY=70&desc={BYEBYE!}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
