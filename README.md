@@ -10,13 +10,13 @@
 
 ![vsgif_com__ 9501](https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8)
 
-
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
+---
+<center>
 ![](https://github-readme-stats.vercel.app/api?username=Mengbooo&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengbooo&layout=compact&theme=tokyonight)
+</center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={Mengbooo}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 *{<br />
    "status":200,<br />
