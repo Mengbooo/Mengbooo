@@ -12,15 +12,6 @@
 
 ---
 
-<figure class="third">
-    <img src="https://github.com/Mengbooo/Mengbooo/assets/143786942/c76c5423-5365-4b86-b38d-ce364ecdd0fc" width="33%">
-    <img src="https://github.com/Mengbooo/Mengbooo/assets/143786942/dffb6332-07d3-4b95-878c-6fdd8d1f92fe" width="33%">
-    <img src="https://github.com/Mengbooo/Mengbooo/assets/143786942/79b0234f-ed4a-4c0e-8eea-ec120fb42986" width="33%">
-</figure>
-
----
-
-
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
 <img src = "https://github.com/Mengbooo/Mengbooo/assets/143786942/315d8a97-ec95-4d58-a101-62c4cd6145e8" width="100%">
 
