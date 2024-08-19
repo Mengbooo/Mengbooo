@@ -4,7 +4,7 @@
 </p>
 
 ## HELO!🍟 Here is `Mengbooo`!
-- 😶‍🌫️ A FE **noob**🍟🍟🍟
+- 😶‍🌫️ A FE **noob**🍟🍟🍟in HUST,majoring in SE
 - 🔭 working on something cool.
 - 🌱 learning Everything I like.
 - 📫 How to reach me: 156431362@qq.com
