@@ -9,7 +9,8 @@
 - 🌱 learning Everything I like.
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
-- welcome to my website : [Bemosite](https://bemosite.fun) / [Bolaxious' Blog](http://bolaxious.fun/)
+- welcome to my Experimental website : [Bemosite](https://bemosite.fun)
+- or my blog , If you can't access it , you can contact me[Bolaxious' Blog](http://bolaxious.fun/)
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
 
