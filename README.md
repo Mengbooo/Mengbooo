@@ -10,7 +10,7 @@
 - 📫 How to reach me: 156431362@qq.com
 - 😍 FE SO GREAT！
 - welcome to my Experimental website : [Bemosite](https://bemosite.fun)
-- or my blog|DB , If you can't access it , you can contact me ：[Bolaxious' Blog](https://bolaxious.fun) | [BemoDB](https://mengbooo.github.io/BemoDB/]
+- or my blog|DB , If you can't access it , you can contact me ：[Bolaxious' Blog](https://bolaxious.fun) | [BemoDB](https://mengbooo.github.io/BemoDB/)
 
 ## You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
 
