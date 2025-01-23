@@ -12,7 +12,7 @@
 - welcome to my Experimental website : [Bemosite](https://bemosite.fun)
 - or my blog|DB , If you can't access it , you can contact me ：[Bolaxious' Blog](https://bolaxious.fun) | [BemoDB](https://mengbooo.github.io/BemoDB/)
 
-##<div align="center"> You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! </div align="center">
+<div align="center"> ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg)
 
 <div style="display:flex">
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mengbooo&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
