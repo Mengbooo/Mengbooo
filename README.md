@@ -1,5 +1,5 @@
 
-## HELO!🍟 Here is `Mengbooo`!
+## Hello!🍟 Here is `Mengbooo`!
 - 😶‍🌫️ A FE **noob**🍟🍟🍟in HUST,majoring in SE
 - 🔭 working on something cool.
 - 🌱 learning Everything I like.
