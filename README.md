@@ -5,6 +5,6 @@
 - 🌱 learning Everything I like.
 - 📫 How to reach me: <a href='mailto:bolaxious@163.com'>bolaxious@163.com</a>
 - 😍 FE SO GREAT！
-- my blog ：[BemoDB](https://mengbooo.github.io/BemoDB/)
+- 🧣 My blog ：[BemoDB](https://mengbooo.github.io/BemoDB/)
 
 You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.svg) visitor to visit my overview! 
