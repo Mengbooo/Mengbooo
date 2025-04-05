@@ -10,6 +10,6 @@ You are the  ![Visitor Count](https://profile-counter.glitch.me/Mengbooo/count.s
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mengbooo&theme=rainbow">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mengbooo&screen_effect=true&theme=rainbow">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mengbooo&screen_effect=true&theme=road_trip">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=dendoink&theme=summer">
 </picture>
